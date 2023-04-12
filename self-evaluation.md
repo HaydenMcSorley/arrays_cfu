@@ -1,0 +1,3 @@
+1. On a scale of 1-10 I am probably around a 6 or 7 in confidence when it comes to arrays.
+2. I need to do more reading on the methods as well as keep brushing up on the git workflow and coding abbreviations people use because I find myself getting even more confused sometimes when people are trying to help me.
+3. Is it more convenient to work mostly out of the terminal or VS code when working with arrays? Does it matter?
