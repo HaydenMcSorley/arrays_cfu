@@ -21,3 +21,5 @@ statuses = [true, false, false, true]
 
 statuses.unshift(false)
 puts statuses
+
+# I believe that index positions are the numeric position within an array such as [1, 2, 3, 4] the number 1 would be index 0 and 4 would be index position 3
